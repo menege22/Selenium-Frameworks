@@ -11,7 +11,7 @@ public class RegisterClass {
 		// 2. Initialize Webdriver object through ChromeDriver class.b
 	        ChromeDriver browserObject = new ChromeDriver();
 		// 3. Open the http://www.google.com/ link using get method.
-	     browserObject.get("https://www.amazon.com/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3F_encoding%3DUTF8%26ref_%3Dnav_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0");
+	     browserObject.get("www.amazone.com ");
 	
 	     //fillthe registraion
 	      

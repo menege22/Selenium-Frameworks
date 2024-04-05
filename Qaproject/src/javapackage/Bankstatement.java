@@ -1,6 +1,11 @@
 package javapackage;
 
 public class Bankstatement {
+	
+	Bankstatement(String username, String pass)
+	{
+		System.out.println(username+ " "+pass);
+	}
     
 	int amt=5000;
 			
@@ -25,7 +30,7 @@ public class Bankstatement {
 		// TODO Auto-generated method stub
        // create an object
 		
-		Bankstatement obj= new Bankstatement();
+		Bankstatement obj= new Bankstatement("Taedle12","1234");
 		obj.deposit(1000,2000);
 		obj.withdraw(500);
 		System.out.println(obj.display());

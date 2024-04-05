@@ -1,20 +1,14 @@
 package seleniumtraning;
 
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.Select;
-
 
 public class FillFormout {
 
 	public static <Webelement> void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		 System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver.exe" );
+		 System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver2.exe" );
 			// 2. Initialize Webdriver object through ChromeDriver class.
-		        WebDriver browserObject = new ChromeDriver();
+		        ChromeDriver browserObject = new ChromeDriver();
 			// 3. Open the http://www.google.com/ link using get method.
 	     browserObject.get("http://www.training.qaonlinetraining.com/testPage.php");
 	      //form fill

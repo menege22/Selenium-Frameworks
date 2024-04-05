@@ -86,5 +86,60 @@
 	<classpathentry kind="lib" path="C:/Users/tad/Downloads/selenium-java-4.12.1/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
 	<classpathentry kind="lib" path="C:/Users/tad/Downloads/selenium-java-4.12.1/lib/reactive-streams-1.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/tad/Downloads/selenium-java-4.12.1/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/selenium-devtools-v85-4.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/byte-buddy-1.14.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/checker-qual-3.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/error_prone_annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/guava-32.1.2-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-buffer-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-codec-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-codec-http-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-codec-socks-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-common-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-handler-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-handler-proxy-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-resolver-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-transport-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-transport-classes-epoll-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-transport-classes-kqueue-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-transport-native-epoll-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-transport-native-kqueue-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/netty-transport-native-unix-common-4.1.96.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-api-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-api-events-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-exporter-logging-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-extension-incubator-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-common-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-logs-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-metrics-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-sdk-trace-1.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/Downloads/jar/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tad/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.15.0/selenium-chrome-driver-4.15.0.jar" sourcepath="C:/Users/tad/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.15.0/selenium-chrome-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
+			<attribute name="maven.version" value="4.15.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

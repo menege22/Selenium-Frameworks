@@ -12,7 +12,7 @@ public class AmazonClass {
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver1.exe" );
+		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chromedriver2.exe" );
 		// 2. Initialize Webdriver object through ChromeDriver class.b
 	        ChromeDriver browserObject = new ChromeDriver();
 		// 3. Open the http://www.google.com/ link using get method.
